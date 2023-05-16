@@ -1,1 +1,22 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Testing</title>
+</head> 
+<body>
+  <h1>Top 3 cities I've called home</h1>
+  <ul>
+    <li>Dallas</li>
+    <li>Augusta</li>
+    <li>Fort Worth</li>
+  </ul>
+  <p>I moved to Dallas and Fort Worth to pursue career opportnities. I'm currently living in Augusta for work.</p>
+  <h2>Top 3 cities I've I'd like to visit</h2>
+  <ol>
+    <li>Austin</li>
+    <li>New York</li>
+    <li>Houston</li>
+  </ol>
+  <p>I would like to visit these cities for the entertainment and scenery.</p>
+</body>
+</html>
